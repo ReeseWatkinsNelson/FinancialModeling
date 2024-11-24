@@ -1,34 +1,9 @@
 # Financial Modeling
 
-Objective: Valuation of Publicly Traded Company 
+The course Financial Data and Analysis  (FIN 357) teaches students how to use Excel to build various types of financial models for financial analysis. These models strengthen the ability to Budget, Forecast, and perform other vital financial functions. 
 
-Summary: 
+I am taking this class because it will help strengthen my knowledge of excel, ability to conduct financial analysis, and exposure to how core financial functions are optimized through modern information systems, such as spreadsheet software. 
 
-Financial analysis provides a transparent outlook of a company's financial position by gathering insights on financial statements and and financial ratios. This helps assess the strength of a company in comparison to those like it in the same industry.
-
-The focus company of this project is IBM, International Business Machines, and it will be dissected in several different ways:
-
-  - (1) Financial Statement Analysis:
-
-    a) Financial Ratios
-
-    b) Discounted Cash Flow Model (DCF)
-
-  - (3) Fundamental Analysis:
-  
-    a) Management & Stakeholders
-  
-    b) Annual Report breakdown
-  
-    c) Risks (Ops, Credit, & Market)
-
-  - (2) Market Insights:
-
-     a) Competitors overview
-
-     b) SWOT Analysis
-
-     c) PESTEL Analysis
+The material you will find in this repository consists of case studies and chapter problems, these problems are from the textbook _Financial Analysis with Microsoft Excel (2019)_by Timothy Mayes. Feel free to peek around and see some examples of my coursework. 
 
 
-This is meant to gather as much information on the position of the company and understand how it will function in the current business environment.
